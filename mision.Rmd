@@ -1,0 +1,7 @@
+---
+title: "Misión"
+output: html_document
+---
+#Misión
+
+Nuestra misión es llevar el bello arte del ballet folklórico a cada región del país, para que cada habitante se sienta orgulloso de sus raíces y costumbres expresadas por medio de la danza. Así mismo inspirar a las nuevas generaciones a aprender a bailar folklor como una forma de expresar la identidad nacional de nuestro país

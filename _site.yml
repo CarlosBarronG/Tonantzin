@@ -1,0 +1,17 @@
+name: "Tonantzin"
+output_dir: "."
+navbar:
+  title: "Ballet Folklorico Tonantzin"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Misión"
+      href: mision.html
+    - text: "Visión"
+      href: vision.html
+    - text: "Contacto"
+      href: contacto.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

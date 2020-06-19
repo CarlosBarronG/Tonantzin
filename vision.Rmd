@@ -1,0 +1,7 @@
+---
+title: "Visión"
+output: html_document
+---
+#Visión al 2024
+
+Nuestra visión al 2024 es ser una organización que reprente a México en el extranjero, comenzando con giras a la región de centro y suramerica y a Estados Unidos. Así mismo, comenzar con nuestro instituto de danza folklórica Tonantzin para la enseñanza de la bella arte como un programa incorporado al estado de Jalisco.
